@@ -1,7 +1,6 @@
 # Telegram Forwarder Bot 🤖
 
 ![Forwarding Bot](dash.jpg)  
-*Screenshot or Logo of the bot here*
 
 **Bot Name:** [Sanji Forwarding Bot](https://t.me/sanjiforwarding_bot)  
 **Bot Link:** [t.me/sanjiforwarding_bot](https://t.me/sanjiforwarding_bot)
